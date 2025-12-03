@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project demonstrates the implementation of a **feedforward neural network from scratch** using only NumPy, designed to approximate an unknown nonlinear function. The work showcases core machine learning competencies including:
+This project demonstrates the implementation of a **feedforward neural network from scratch** using only NumPy, designed to approximate an unknown nonlinear function. Key technical components include:
 
 - **Model Architecture Design**: Custom 2-layer neural network with ReLU activation
 - **Hyperparameter Optimization**: Systematic grid search over learning rates and training epochs
@@ -108,16 +108,7 @@ The trained model successfully approximates the unknown target function with:
 | **Optimization** | Grid Search, Hyperparameter Tuning |
 | **Data Analysis** | Statistical Averaging, Cross-validation |
 | **Visualization** | Matplotlib, 3D Surface Plots |
-
-## Relevance to Applied ML Research
-
-This project demonstrates foundational skills directly applicable to:
-
-- **Forecasting Models**: Understanding of function approximation extends to time-series prediction
-- **Model Optimization**: Experience with hyperparameter search translates to Bayesian optimization
-- **Deep Learning Foundations**: Manual implementation provides insight into PyTorch/TensorFlow internals
-- **Experimental Rigor**: Statistical validation methodology for reliable model comparison
-
+ 
 ## Getting Started
 
 ### Prerequisites
@@ -141,7 +132,4 @@ jupyter notebook neural_network_function_approximation.ipynb
 ## Author
 
 **Sahil Bhatt**
-
----
-
-*This project was developed to demonstrate proficiency in machine learning fundamentals, neural network implementation, and systematic experimental methodology.*
+ 
