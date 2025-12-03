@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project demonstrates the implementation of a **feedforward neural network from scratch** using only NumPy, designed to approximate an unknown nonlinear function. Key technical components include:
+This project implements a **feedforward neural network from scratch** using only NumPy, designed to approximate an unknown nonlinear function. Key technical components include:
 
 - **Model Architecture Design**: Custom 2-layer neural network with ReLU activation
 - **Hyperparameter Optimization**: Systematic grid search over learning rates and training epochs
@@ -99,7 +99,7 @@ The trained model successfully approximates the unknown target function with:
 - **Consistent generalization** to unseen test data
 - **Smooth 3D surface** visualization of learned function
 
-## Technologies & Skills Demonstrated
+## Technologies 
 
 | Category | Technologies |
 |----------|-------------|
